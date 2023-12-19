@@ -1,0 +1,13 @@
+apple
+banana
+cherry
+apple
+orange
+apple
+banana
+
+-
+\t\n
+apple
+orange
+apple

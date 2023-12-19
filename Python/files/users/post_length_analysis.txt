@@ -1,0 +1,6 @@
+Short posts: 0
+Medium posts: 96
+Long posts: 9
+short = 0
+medium = 96
+long = 9
