@@ -1,3 +1,0 @@
-This is the source file.
-It has multiple lines.
-Let's copy this content to another file.
